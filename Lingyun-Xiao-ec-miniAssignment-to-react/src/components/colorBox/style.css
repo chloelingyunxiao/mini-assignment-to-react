@@ -1,0 +1,14 @@
+.singleColorBox {
+  width: 30%;
+  padding-top: 30%;
+  margin-top: 10px;
+}
+
+.colorBoxContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 20px;
+  flex-wrap: wrap;
+  z-index: 0;
+}
